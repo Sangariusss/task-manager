@@ -1,0 +1,29 @@
+# Composer dependencies
+/vendor/
+/composer.phar
+
+# PHPStorm and other IDEs
+/.idea/
+/.vscode/
+/nbproject/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Environment variables and local configuration files
+.env
+.env.local
+.env.*.local
+
+# Logs and temporary files
+/logs/
+/cache/
+/tmp/
+*.log
+
+# PHPUnit
+.phpunit.result.cache
+
+# Coverage reports
+/coverage/
